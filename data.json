@@ -1,0 +1,19 @@
+[{
+        "userID": 1,
+        "fname": "Samim",
+        "lname": "Mondal",
+        "age": 21
+    },
+    {
+        "userID": 2,
+        "fname": "Raju",
+        "lname": "Mondal",
+        "age": 21
+    },
+    {
+        "userID": 3,
+        "fname": "Susmita",
+        "lname": "Mondal",
+        "age": 21
+    }
+]
